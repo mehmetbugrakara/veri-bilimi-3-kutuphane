@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+logs.log
+*.pkl
+sweetviz_*.html

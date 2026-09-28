@@ -1,0 +1,5 @@
+pycaret==3.3.2
+sweetviz>=2.3.1
+shap
+lightgbm>=4.0,<4.7
+jupyter
